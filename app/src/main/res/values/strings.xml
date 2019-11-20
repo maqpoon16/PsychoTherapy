@@ -1,0 +1,260 @@
+<resources>
+    <string name="app_name">PsychoTherapy</string>
+    <string-array name="anger">
+        <item>Suicide</item>
+        <item>Agitation</item>
+        <item>Disturbed</item>
+        <item>Turmoil</item>
+        <item>guilt</item>
+        <item>cry</item>
+        <item>kill</item>
+        <item>ashamed</item>
+        <item>embarrassed</item>
+        <item>bothered</item>
+        <item>bitter</item>
+        <item>enraged</item>
+        <item>exasperated</item>
+        <item>furious</item>
+        <item>heated</item>
+        <item>impassioned</item>
+        <item>indignant</item>
+        <item>irate</item>
+        <item>offended</item>
+        <item>outraged</item>
+        <item>resentful</item>
+        <item>sullen</item>
+        <item>uptight</item>
+        <item>affronted</item>
+        <item>antagonized</item>
+        <item>chafed</item>
+        <item>choleric</item>
+        <item>convulsed</item>
+        <item>cross</item>
+        <item>displeased</item>
+        <item>exacerbated</item>
+        <item>ferocious</item>
+        <item>fierce</item>
+        <item>fiery</item>
+        <item>fuming</item>
+        <item>galled</item>
+        <item>hateful</item>
+        <item>hot</item>
+        <item>huffy</item>
+        <item>ill-tempered</item>
+        <item>incensed</item>
+        <item>inflamed</item>
+        <item>infuriated</item>
+        <item>irascible</item>
+        <item>ireful</item>
+        <item>maddened</item>
+        <item>nettled</item>
+        <item>piqued</item>
+        <item>provoked</item>
+        <item>raging</item>
+        <item>riled</item>
+        <item>sore</item>
+        <item>splenetic</item>
+        <item>storming</item>
+        <item>sulky</item>
+        <item>tumultous</item>
+        <item>tumultuous</item>
+        <item>turbulent</item>
+        <item>vexed</item>
+        <item>wrathful</item>
+    </string-array>
+
+    <string-array name="anxiety">
+        <item>Tingling</item>
+        <item>Unrelaxed</item>
+        <item>Worst</item>
+        <item>Unsteady</item>
+        <item>Afraid</item>
+        <item>Choking</item>
+        <item>Trembling</item>
+        <item>Indigestion</item>
+        <item>Faint</item>
+        <item>Shaky</item>
+        <item>Wound-up</item>
+        <item>Frightened</item>
+        <item>Awful</item>
+        <item>Awkward</item>
+        <item>Restless</item>
+        <item>Doubt</item>
+        <item>worry</item>
+        <item>angst</item>
+        <item>apprehension</item>
+        <item>concern</item>
+        <item>disquiet</item>
+        <item>doubt</item>
+        <item>dread</item>
+        <item>jitters</item>
+        <item>misery</item>
+        <item>misgiving</item>
+        <item>mistrust</item>
+        <item>nervousness</item>
+        <item>panic</item>
+        <item>restlessness</item>
+        <item>suffering</item>
+        <item>suspense</item>
+        <item>trouble</item>
+        <item>uncertainty</item>
+        <item>unease</item>
+        <item>uneasiness</item>
+        <item>botheration</item>
+        <item>butterflies</item>
+        <item>care</item>
+        <item>creeps</item>
+        <item>disquietude</item>
+        <item>distress</item>
+        <item>downer</item>
+        <item>drag</item>
+        <item>fidgets</item>
+        <item>flap</item>
+        <item>foreboding</item>
+        <item>fretfulness</item>
+        <item>fuss</item>
+        <item>shakes</item>
+        <item>shivers</item>
+        <item>solicitude</item>
+        <item>sweat</item>
+        <item>watchfulness</item>
+        <item>willies</item>
+        <item>worriment</item>
+        <item>all-overs</item>
+        <item>ants in pants</item>
+        <item>cold sweat</item>
+        <item>goose bumps</item>
+        <item>nail-biting</item>
+        <item>pins and needles</item>
+    </string-array>
+
+    <string-array name="sadness">
+        <item>Gloomy</item>
+        <item>Lack of interest</item>
+        <item>Incapable</item>
+        <item>Slow down</item>
+        <item>low</item>
+        <item>bitter</item>
+        <item>dismal</item>
+        <item>heartbroken</item>
+        <item>melancholy</item>
+        <item>mournful</item>
+        <item>pessimistic</item>
+        <item>somber</item>
+        <item>sorrowful</item>
+        <item>sorry</item>
+        <item>wistful</item>
+        <item>bereaved</item>
+        <item>blue</item>
+        <item>cheerless</item>
+        <item>dejected</item>
+        <item>despairing</item>
+        <item>despondent</item>
+        <item>disconsolate</item>
+        <item>distressed</item>
+        <item>doleful</item>
+        <item>down</item>
+        <item>down in dumps</item>
+        <item>down in mouth</item>
+        <item>downcast</item>
+        <item>forlorn</item>
+        <item>gloomy</item>
+        <item>glum</item>
+        <item>grief-stricken</item>
+        <item>grieved</item>
+        <item>heartsick</item>
+        <item>heavyhearted</item>
+        <item>hurting</item>
+        <item>in doldrums</item>
+        <item>in grief</item>
+        <item>in the dumps</item>
+        <item>languishing</item>
+        <item>low</item>
+        <item>low-spirited</item>
+        <item>lugubrious</item>
+        <item>morbid</item>
+        <item>morose</item>
+        <item>out of sorts</item>
+        <item>pensive</item>
+        <item>sick at heart</item>
+        <item>troubled</item>
+        <item>weeping</item>
+        <item>woebegone</item>
+    </string-array>
+
+    <string-array name="enjoyment">
+        <item>Best</item>
+        <item>Relief</item>
+        <item>Joy</item>
+        <item>amusement</item>
+        <item>fun</item>
+        <item>gratification</item>
+        <item>happiness</item>
+        <item>indulgence</item>
+        <item>joy</item>
+        <item>Funny</item>
+        <item>Relaxed</item>
+        <item>luxury</item>
+        <item>pleasure</item>
+        <item>recreation</item>
+        <item>relaxation</item>
+        <item>satisfaction</item>
+        <item>thrill</item>
+        <item>delectation</item>
+        <item>diversion</item>
+        <item>entertainment</item>
+        <item>fruition</item>
+        <item>gladness</item>
+        <item>gusto</item>
+        <item>hedonism</item>
+        <item>rejoicing</item>
+        <item>relish</item>
+        <item>savor</item>
+        <item>self-indulgence</item>
+        <item>sensuality</item>
+        <item>triumph</item>
+        <item>zest</item>
+        <item>enjoying</item>
+        <item>loving</item>
+    </string-array>
+
+    <string-array name="hopelessness">
+        <item>Inadequate</item>
+        <item>Ambiguous</item>
+        <item>Regret</item>
+        <item>Failed</item>
+        <item>Cant</item>
+        <item>Suffer</item>
+        <item>anguish</item>
+        <item>desperation</item>
+        <item>despondency</item>
+        <item>discouragement</item>
+        <item>gloom</item>
+        <item>melancholy</item>
+        <item>misery</item>
+        <item>sorrow</item>
+        <item>dejection</item>
+        <item>despondence</item>
+        <item>disheartenment</item>
+        <item>forlornness</item>
+        <item>ordeal</item>
+        <item>pain</item>
+        <item>trial</item>
+        <item>tribulation</item>
+        <item>wretchedness</item>
+        <item>dashed hopes</item>
+        <item>desperateness</item>
+        <item>despond</item>
+
+    </string-array>
+    <string-array name="date_selection">
+        <item>~~ Select Date ~~</item>
+    </string-array>
+    <string-array name="Select_Countries">
+        <item>~~ Select Country ~~</item>
+        <item>Pakistan</item>
+        <item>China</item>
+        <item>USA</item>
+        <item>Russia</item>
+    </string-array>
+</resources>

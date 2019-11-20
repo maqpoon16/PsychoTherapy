@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "175476928271",
+    "firebase_url": "https://livfit-fyp.firebaseio.com",
+    "project_id": "livfit-fyp",
+    "storage_bucket": "livfit-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175476928271:android:f4eabefc1ee56420f4d87a",
+        "android_client_info": {
+          "package_name": "com.example.psychotherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175476928271-u04lbfug4emu3itlm5jl77kpfv1b36pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psychotherapy",
+            "certificate_hash": "bacd38de44d7d6976a0104f32da9d8f5987f68c3"
+          }
+        },
+        {
+          "client_id": "175476928271-klec79f963btbk7fhv28031rpr407k36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrIB53z9siqVAloX3vUoPMSmviAlvJ-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175476928271-klec79f963btbk7fhv28031rpr407k36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175476928271:android:680fa99e29733b1a",
+        "android_client_info": {
+          "package_name": "com.maqpoon.livefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175476928271-9nr8u7mrn40b27tg4ue1jjmj9bnu9kc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maqpoon.livefit",
+            "certificate_hash": "8ecab042b01943fcfbec638f2d0080ecf195c26d"
+          }
+        },
+        {
+          "client_id": "175476928271-klec79f963btbk7fhv28031rpr407k36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrIB53z9siqVAloX3vUoPMSmviAlvJ-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175476928271-klec79f963btbk7fhv28031rpr407k36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175476928271:android:9de7bfbb48e8b43d",
+        "android_client_info": {
+          "package_name": "com.numl.finalyearproject.livefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175476928271-0qsp2b8pae0veuqv96gn3geba82ck06j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.numl.finalyearproject.livefit",
+            "certificate_hash": "d57551e25ef5e71d55887cbb4edb67b6a2d0b93f"
+          }
+        },
+        {
+          "client_id": "175476928271-k6vlb9r6n294tlh1bioapb0n4teqvska.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.numl.finalyearproject.livefit",
+            "certificate_hash": "8ecab042b01943fcfbec638f2d0080ecf195c26d"
+          }
+        },
+        {
+          "client_id": "175476928271-klec79f963btbk7fhv28031rpr407k36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrIB53z9siqVAloX3vUoPMSmviAlvJ-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175476928271-klec79f963btbk7fhv28031rpr407k36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

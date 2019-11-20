@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+>
+
+   <LinearLayout
+       android:id="@+id/menu_box"
+       android:layout_width="match_parent"
+       android:layout_height="300dp"
+       android:orientation="vertical"
+       android:background="@drawable/menu_cardview_bg"
+       android:layout_marginTop="10dp"
+       android:layout_marginRight="10dp"
+       android:layout_marginLeft="10dp"
+       android:layout_marginBottom="10dp">
+
+           <TextView
+           android:id="@+id/menu_onclick"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@drawable/transparent_textview_black_bg"
+           android:text="Check Activity"
+           android:paddingTop="5dp"
+           android:paddingRight="10dp"
+           android:paddingLeft="10dp"
+            android:paddingBottom="5dp"
+           android:textColor="@android:color/white"
+           android:layout_gravity="right"
+           android:layout_marginRight="20dp"
+           android:layout_marginTop="20dp"
+           android:gravity="right"
+           />
+
+       <TextView
+           android:id="@+id/menu_text"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Enter Your Daily Routen"
+           android:textColor="@color/colorWhite"
+           android:textSize="30sp"
+           android:layout_marginTop="20dp"
+           android:paddingLeft="10dp"/>
+   </LinearLayout>
+</androidx.cardview.widget.CardView>

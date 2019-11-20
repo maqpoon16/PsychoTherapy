@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/half_blue_bg"
+    android:paddingTop="40dp">
+    <ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="10dp"
+        android:layout_margin="20dp"
+        android:outlineAmbientShadowColor="@color/colorBlack">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Profile"
+                android:textColor="@color/colorBackground"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="40dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <EditText
+                    android:id="@+id/et_fname"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/editable_textfield"
+                    android:hint="First Name"
+                    android:paddingLeft="10dp"/>
+                <EditText
+                    android:id="@+id/et_lname"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/editable_textfield"
+                    android:hint="Last Name"
+                    android:paddingLeft="10dp"/>
+            </LinearLayout>
+            <EditText
+                android:id="@+id/et_email"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/editable_textfield"
+                android:hint="Email"
+                android:paddingLeft="10dp"/>
+
+             <EditText
+                android:id="@+id/et_city"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/editable_textfield"
+                android:hint="City"
+                android:paddingLeft="10dp"/>
+            <EditText
+                android:id="@+id/et_country"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/editable_textfield"
+                android:hint="Select Country"
+                android:paddingLeft="10dp"/>
+
+            <EditText
+                android:id="@+id/et_gender"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/editable_textfield"
+                android:hint="Gender"
+                android:paddingLeft="10dp"/>
+
+            <EditText
+                android:id="@+id/et_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/editable_textfield"
+                android:hint="Mobile"
+                android:paddingLeft="10dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/bottom_buttons"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/btn_close"
+                    android:layout_width="0dp"
+                    android:layout_weight=".5"
+                    android:layout_height="40dp"
+                    android:background="@drawable/button_background"
+                    android:text="close"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginRight="6dp"
+                    android:textColor="@color/colorWhite"
+                    android:paddingLeft="10dp"
+                    />
+                <Button
+                    android:id="@+id/btn_update"
+                    android:layout_width="0dp"
+                    android:layout_weight=".5"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginRight="6dp"
+                    android:background="@drawable/button_background"
+                    android:text="update"
+                    android:textColor="@color/colorWhite"
+                    android:paddingLeft="10dp"
+                    />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</ScrollView>
+</LinearLayout>
